@@ -3,7 +3,7 @@ By Jason Espinoza
 
 ## About
 This single page app uses the Google maps API and the location-based service Foursquare API to list some beaches in the Fort Lauderdale Florida area. The page features 5 map markers of locations in Fort Lauderdale and lists details of each beach using the Foursquare API. It also includes a search functionality that filters out the markers by query.
-It is made with responsiveness and a11y in mind.
+It is made with responsiveness in mind.
 
 
 ## How to Use the App
